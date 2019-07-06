@@ -4,4 +4,6 @@ The main purpose of the application is to translate human voice into writing.
 It is the first android application I have developed
 
 
-![image](https://user-images.githubusercontent.com/42313363/60759698-199c6680-a032-11e9-9521-2541b8f22ece.jpeg)
+## Overview of the app
+![image](https://user-images.githubusercontent.com/42313363/60759713-523c4000-a032-11e9-9c4b-7efaf010a55d.jpeg)
+
